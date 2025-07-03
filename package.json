@@ -5,7 +5,7 @@
   "type": "module",
   "scripts": {
     "dev": "vite",
-    "build": "vite build --base=/project-TeamFrog/",
+    "build": "vite build --base=/fs120_html-css_OleksiiPodorozhko/",
     "preview": "vite preview"
   },
   "devDependencies": {
